@@ -12,3 +12,11 @@ int main (void)
 	std::cout<<a;
 	}
 }
+
+
+void Covor (int colorNum, float x, float y)
+{
+	for()
+
+
+}
