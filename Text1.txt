@@ -3,3 +3,12 @@ Git専科
 2コマ目の内容
 少し内容を変更
 首が痛い
+
+
+int main (void)
+{
+	for(itn a=0;a<10;a++)
+	{
+	std::cout<<a;
+	}
+}
